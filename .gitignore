@@ -1,0 +1,8 @@
+
+.DS_Store
+.vscode
+Code/Ipopt
+Code/*/outputs
+Code/outputs
+*.pyc
+*.asv
