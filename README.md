@@ -1,4 +1,4 @@
-# Application of deep learning and reinforcement learning to boundary control problems
+# Application of Deep and Reinforcement to Boundary Control Problems
 
 Zenin Easa Panthakkalakath, Juraj Kardoš and Olaf Schenk
 
@@ -21,3 +21,17 @@ The code related to applying deep learning and reinforcement learning methods to
 The code related to different baselines generated and a few initial experiments can be seen in the folder [Code/experiment](Code/experiment).
 
 The information on synthetic data generation is made available in the file named [Code/dataGenerator.py](Code/dataGenerator.py).
+
+## Citation
+
+A lot of time and effort has been put into working on this project, writing the report and ensuring that the code is readable enough. Therefore, it would be lovely if you would cite us using the following.
+
+```
+@online{DLAndRLToBoundaryControlProblem,
+    author    = {Zenin Easa Panthakkalakath and Juraj Kardoš and Olaf Schenk},
+    title     = {Application of Deep and Reinforcement to Boundary Control Problems},
+    year      = {2023},
+    url       = {https://github.com/zenineasa/MasterThesis},
+    urldate   = {2023-07-13}
+}
+```
