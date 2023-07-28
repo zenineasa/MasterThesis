@@ -1,4 +1,4 @@
-# Application of Deep and Reinforcement to Boundary Control Problems
+# Application of Deep and Reinforcement Learning to Boundary Control Problems
 
 Zenin Easa Panthakkalakath, Juraj Kardoš and Olaf Schenk
 
@@ -29,9 +29,10 @@ A lot of time and effort has been put into working on this project, writing the 
 ```
 @online{DLAndRLToBoundaryControlProblem,
     author    = {Zenin Easa Panthakkalakath and Juraj Kardoš and Olaf Schenk},
-    title     = {Application of Deep and Reinforcement to Boundary Control Problems},
+    title     = {Application of Deep and Reinforcement Learning to Boundary Control Problems},
     year      = {2023},
     url       = {https://github.com/zenineasa/MasterThesis},
-    urldate   = {2023-07-13}
+    urldate   = {2023-07-13},
+    howpublished = {\url{https://github.com/zenineasa/MasterThesis}}
 }
 ```
