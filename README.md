@@ -36,3 +36,5 @@ A lot of time and effort has been put into working on this project, writing the 
       primaryClass={cs.LG}
 }
 ```
+
+You can read the corresponding paper at [https://arxiv.org/abs/2310.15191](https://arxiv.org/abs/2310.15191).
